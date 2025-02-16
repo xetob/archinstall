@@ -14,7 +14,7 @@ The installer also doubles as a python library to install Arch Linux and manage 
 * archinstall [documentation](https://archinstall.archlinux.page/)
 
 # Installation & Usage
-```shell
+```shellgy
 sudo pacman -S archinstall
 ```
 
